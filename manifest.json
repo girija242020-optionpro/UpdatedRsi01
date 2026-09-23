@@ -1,0 +1,27 @@
+{
+  "name": "RSI DEMA Volume Terminal",
+  "short_name": "RSI DEMA",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#080c14",
+  "theme_color": "#080c14",
+  "description": "RSI 5 + EMA 14 + DEMA 14 + Volume SMA 250 PWA using Dhan Ultimate Backend.",
+  "icons": [
+    {
+      "src": "./icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "./icons/icon-512-maskable.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
